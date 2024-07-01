@@ -1,4 +1,4 @@
-class income:
+import pandas
 
 class expenses:
 
